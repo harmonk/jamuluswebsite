@@ -91,11 +91,11 @@ Jamulus is “Free and Open Source (FOSS)” (not “free software” or “open
 
 "Volume" Referring to how loud a channel is. Not "Level", "Gain" or other terms.
 
-“Country/Region” Keep in mind that some areas of the world have a controversial (political) status. If possible, be generic and remain neutral. Instead of just saying country, use _Country/Region_ or _Location_.
+“Country/Region” Keep in mind that some areas of the world have a controversial (political) status. If possible, be generic and remain neutral. Instead of just saying country, use "Country/Region" or "Location".
 
 "Client" When capitalised, this means an instance of Jamulus running in client mode, used to connect to Jamulus Servers.
 
-“Server” When capitalized, refers to an instance of Jamulus running in server mode. When lowercase as _server_, this refers to the computer that runs the Server (e.g. "A Server running on an AWS server"). Not to be confused with Directory.
+“Server” When capitalised, refers to an instance of Jamulus running in server mode. When lowercase as _server_, this refers to the computer that runs the Server (e.g. "A Server running on an AWS server"). Not to be confused with Directory.
 
 “Directory” The term for a type of Server that a Client uses to get a list of Servers from. Avoid the use of the term _Directory Server_ because it may be confusing in the presence of _Server_ on its own.
 
