@@ -83,11 +83,13 @@ Refer to UI labels in inverted commas (eg 'click on the “mute” button')
 
 Jamulus is “Free and Open Source (FOSS)” (not “free software” or “open source”)
 
-“Channel” The audio signal as part of a mix. “Mute a channel”, “Maximum number of channels”, “Group channels together” (not “Mute a person” because one person might be using multiple channels).
+“Channel” The audio signal as part of a mix. “Mute a channel”, “Maximum number of channels”, “Group channels together”. 
 
-“Fader” The UI that controls a channel. “Each fader has a mute button”, “The person’s fader” ,“Group faders together” (not “The person’s channel” or “Mute a Fader”, not “Slider” or “Volume control”)
+“Fader” The UI used to control a channel. Not “slider” or “volume control”. Use when "channel" may not be appropriate, and preferebly only to refer to what a user sees on their screen. “Each fader has a mute button”, "leftmost fader". Remember: keep the user's view in mind when referring to the UI. For example, the visual effect of controlling a group of channels is to "make all the faders move together". But note that "fader" should **not** be used if "channel" would be a more accurate term. So, "reduce the channel volume" not "lower the fader". "Mute the channel" not "mute the fader". This is to disambiguate in cases where the UI isn't relevant, and help educate the reader in terms of the way things actually work.
 
-“Person” A human connected to a server (may be on multiple channels). We might say "People on the server", or "People who have muted themselves", rather than _Musicians_ or _Channels_.
+“Person” When "channel" or "fader" isn't a good term (according to the above definitions), we refer to "people" connected to a server rather than "musicians" since (in English) the latter term does not imply singers.
+
+"Volume" Referring to how loud a channel is. Not "Level", "Gain" or other terms.
 
 “Country/Region” Keep in mind that some areas of the world have a controversial (political) status. If possible, be generic and remain neutral. Instead of just saying country, use _Country/Region_ or _Location_.
 
