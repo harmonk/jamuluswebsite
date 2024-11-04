@@ -40,7 +40,7 @@ On Windows, it’s recommended to choose a device with a *native ASIO driver* - 
 ---
 
 ### USB/USB-C devices
-**[Darkglass Element] _(https://www.darkglass.com/creation/element/)_**, USB-C instrument pedal and DI box with 2 channel USB output
+**[Darkglass Element](https://www.darkglass.com/creation/element/)**, USB-C instrument pedal and DI box with 2 channel USB output
 
 **Windows**: ❓ Not yet tested.
 
