@@ -85,7 +85,7 @@ Jamulus is “Free and Open Source (FOSS)” (not “free software” or “open
 
 “Channel” The audio signal as part of a mix. “Mute a channel”, “Maximum number of channels”, “Group channels together”.
 
-“Fader” The UI used to control a channel. Not “slider” or “volume control”. Use when "channel" may not be appropriate, and preferebly only to refer to what a user sees on their screen. “Each fader has a mute button”, "leftmost fader". Remember: keep the user's view in mind when referring to the UI. For example, the visual effect of controlling a group of channels is to "make all the faders move together". But note that "fader" should **not** be used if "channel" would be a more accurate term. So, "reduce the channel volume" not "lower the fader". "Mute the channel" not "mute the fader". This is to disambiguate in cases where the UI isn't relevant, and help educate the reader in terms of the way things actually work.
+"Fader" - the UI control that adjusts the channel volume heard in the mix. Not "volume slider", "volume control" or other term (adding the context of the mixer, if needed).
 
 “Person” When "channel" or "fader" isn't a good term (according to the above definitions), we refer to "people" connected to a server rather than "musicians" since (in English) the latter term does not imply singers.
 
